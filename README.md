@@ -1,4 +1,5 @@
 # ⚔️ La senda del Guerrero: Teoremas fundamentales del cálculo multivariado
+![Póster Maestro de Cálculo IV](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-IV/blob/main/samurai_Green_Stokes_Gauss.png?raw=true)
 
 Este repositorio contiene una serie de infografías diseñadas para estudiantes de **Cálculo Diferencial e Integral IV**. Inspiradas en el rigor del texto clásico de **Piskunov**, estas láminas combinan la estética de los samuráis con la precisión del análisis vectorial.
 
